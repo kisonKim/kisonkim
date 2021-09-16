@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/ReactJS-#000000?style=plastic&logo=React&logoColor=#61DAFB"/></a>
+<!-- <a href="www.briphy.com" target="_blank"><img src="https://img.shields.io/badge/ReactJS-#000000?style=plastic&logo=React&logoColor=#61DAFB"/></a> -->
+<img alt="Python" src ="https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>>
