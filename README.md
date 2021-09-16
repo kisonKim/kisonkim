@@ -1,13 +1,9 @@
-### Hi there! This is Mattkim 👋
-## 안녕하세요. Mattkim 입니다.
-## 저는 <img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 개발자입니다.
+## Hi there! This is Mattkim 👋
+### 안녕하세요. Mattkim 입니다.
+### 저는 <img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 개발자입니다.
 
-### Vanilla JS로 Scroll Animation을 구현한 사이트
-## <a href="https://www.briphy.com" target="_blank">briphy.com</a>
-
-
-
-
+## Vanilla JS로 Scroll Animation을 구현한 사이트
+### <a href="https://www.briphy.com" target="_blank">briphy.com</a>
 
 
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
