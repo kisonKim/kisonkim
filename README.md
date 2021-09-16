@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- <a href="www.briphy.com" target="_blank"><img src="https://img.shields.io/badge/ReactJS-#000000?style=plastic&logo=React&logoColor=#61DAFB"/></a> -->
-<img alt="React" src ="https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
+<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
