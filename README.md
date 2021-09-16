@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! this is Mattkim 👋
+### 안녕하세요. Mattkim 입니다.
+### 저는 ReactJS를 주로 사용하는 개발자입니다.
 
 <!--
 **kisonKim/kisonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
