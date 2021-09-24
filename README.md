@@ -5,7 +5,7 @@
   
 ## Vanilla JS
 ### Scroll Animation을 구현한 사이트
-<a href="https://www.briphy.com" target="_blank">briphy.com</a> - Fullstack 개발
+- <a href="https://www.briphy.com" target="_blank">briphy.com</a> - Fullstack 개발
 
 
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
