@@ -4,7 +4,7 @@
   
   
 ## Vanilla JS
-###Scroll Animation을 구현한 사이트
+### Scroll Animation을 구현한 사이트
 <a href="https://www.briphy.com" target="_blank">briphy.com</a> - Fullstack 개발
 
 
