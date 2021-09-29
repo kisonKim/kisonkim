@@ -13,8 +13,7 @@
 > - <a href="http://mattkim.site" target="_blank">mattkim.site</a> - Fullstack 개발
  
 ### SPECs
-<img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
+<img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
 
 <!--
 **kisonKim/kisonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
