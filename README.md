@@ -3,12 +3,12 @@
 ### 저는 <img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 개발자입니다.  
   
   
-> ### Vanilla JS
+> ### <span style="color:#E34F26;">Vanilla JS</span>
 > #### Scroll Animation을 구현한 Web Site
 > - <a href="https://www.briphy.com" target="_blank">briphy.com</a> - Fullstack 개발
 
 
-> ### Docker-ReactJS-NodeJS
+> ### <span style="color:#E34F26;">Docker-ReactJS-NodeJS</span>
 > #### 개인 portfolio Web Site (작업 중)
 > - <a href="http://mattkim.site" target="_blank">mattkim.site</a> - Fullstack 개발
  
