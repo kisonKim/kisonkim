@@ -5,7 +5,7 @@
   
 > ### <span style="color:#E34F26;">Vanilla JS</span>
 > #### Scroll Animation을 구현한 Web Site
-> - <a href="https://www.briphy.com" target="_blank">briphy.com</a> - Fullstack 개발
+> - <a href="https://kisonkim.github.io/scroll_anim_web/" target="_blank">scroll Animation Web</a> - Fullstack 개발
 
 
 > ### <span style="color:#E34F26;">Docker-ReactJS-NodeJS</span>
