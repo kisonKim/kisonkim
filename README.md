@@ -1,21 +1,7 @@
-## Hi there! This is Mattkim 👋
-### 안녕하세요. Mattkim 입니다.
+## Hi there! This is SteveKim 👋
+### 안녕하세요. SteveKim 입니다.
 ### 저는 <img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 개발자입니다.  
   
-  
-> ### <span style="color:#E34F26;">Vanilla JS</span>
-> #### Scroll Animation을 구현한 Web Site
-> - <a href="https://kisonkim.github.io/scroll_anim_web/" target="_blank">scroll Animation Web</a> - Fullstack 개발
-
-> ### <span style="color:#E34F26;">Docker-ReactJS-PHP</span>
-> - <a href="https://www.briphy.com" target="_blank">Briphy Landing Page</a> - Fullstack 개발
-
-> ### <span style="color:#E34F26;">Docker-ReactJS-NodeJS</span>
-> #### 개인 portfolio Web Site (작업 중)
-> - <a href="http://mattkim.site" target="_blank">mattkim.site</a> - Fullstack 개발
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kisonkim&show_icons=true&theme=radical)
-
 ## SPECs
 <img alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=black"/> <img alt="css3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=black"/> <img alt="JS" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/> <img alt="PHP" src ="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> 
 
